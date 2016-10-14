@@ -13,7 +13,8 @@ class empresaController extends controller {
 
         $dados = array();
 
-       
+       $empresa = new Empresa();
+       $dados['empresa'] = $empresa->getSobre();
 
   
 
