@@ -46,10 +46,7 @@ class contatoController extends controller {
 
             $update = $contato->updateEndereco($array);
             
-            if ($update){
-                Header('Location: ' . filter_input(INPUT_SERVER, 'PHP_SELF'));
-                Exit();
-            }
+          
         }
     }
 

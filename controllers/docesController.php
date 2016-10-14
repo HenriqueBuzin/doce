@@ -11,7 +11,8 @@ class docesController extends controller {
 
         $dados = array();
 
-       
+       $doce = new Doce();
+       $dados['doce'] = $doce->getDoces();
 
 
 
