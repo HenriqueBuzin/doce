@@ -9,13 +9,10 @@
         <!-- CHAMADAS CSS-->
         <link href="<?php echo BASE; ?>/assets/css/index.css" rel="stylesheet">
         <link type="text/css" rel="stylesheet" href="<?php echo BASE; ?>/assets/css/materialize.min.css" media="screen,projection">
-
+        <link type="text/css" rel="stylesheet" href="<?php echo BASE; ?>/assets/css/index.css" media="screen,projection">
         <!-- CHAMADAS JS-->
         <script type="text/javascript" src="<?php echo BASE; ?>/assets/js/jquery.min.js"></script>
-
-        <script type="text/javascript" src="<?php echo BASE; ?>/assets/js/materialize.min.js"></script>	    
-        <script type="text/javascript" src="<?php echo BASE; ?>/assets/js/index.js"></script>
-        <script type="text/javascript" src="<?php echo BASE; ?>/assets/js/script.js"></script>
+        <script type="text/javascript" src="<?php echo BASE; ?>/assets/js/materialize.min.js"></script>   
         <script type="text/javascript" src="<?php echo BASE; ?>/assets/js/jquery.js"></script>
 
 
