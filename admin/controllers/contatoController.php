@@ -46,6 +46,7 @@ class contatoController extends controller {
 
             $update = $contato->updateEndereco($array);
             
+           
           
         }
     }
