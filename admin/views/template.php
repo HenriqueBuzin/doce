@@ -9,7 +9,7 @@
         <!-- CHAMADAS CSS-->
         <link href="<?php echo BASE; ?>/assets/css/index.css" rel="stylesheet">
         <link type="text/css" rel="stylesheet" href="<?php echo BASE; ?>/assets/css/materialize.min.css" media="screen,projection">
-
+        
         <!-- CHAMADAS JS-->
         <script type="text/javascript" src="<?php echo BASE; ?>/assets/js/jquery.min.js"></script>
 
@@ -17,12 +17,12 @@
         <script type="text/javascript" src="<?php echo BASE; ?>/assets/js/index.js"></script>
         <script type="text/javascript" src="<?php echo BASE; ?>/assets/js/script.js"></script>
         <script type="text/javascript" src="<?php echo BASE; ?>/assets/js/jquery.js"></script>
-
-
+        
+        
 
     </head>
     <body>
-
+       
 
         <nav>
             <div class="nav-wrapper" id="menu">
@@ -33,14 +33,14 @@
                     <li ><a href="<?php echo BASE; ?>/empresa" id="menuli">Empresa</a></li>
                     <li><a href="<?php echo BASE; ?>/doces" id="menuli">Doces</a></li>
                     <li><a href="<?php echo BASE; ?>/contato" id="menuli">Contato</a></li>
-
+                    <li ><a href="<?php echo BASE; ?>/login/sair" id="menuli">Sair</a></li>
                 </ul>
                 <ul class="side-nav" id="mobile-demo">
                     <li ><a href="<?php echo BASE; ?>/" id="menuli">Home</a></li>
                     <li ><a href="<?php echo BASE; ?>/empresa" id="menuli">Empresa</a></li>
                     <li ><a href="<?php echo BASE; ?>/doces" id="menuli">Doces</a></li>
                     <li><a href="<?php echo BASE; ?>/contato" id="menuli">Contato</a></li>
-
+                    <li ><a href="<?php echo BASE; ?>/login/sair" id="menuli">Sair</a></li>
                 </ul>
             </div>
         </nav>
