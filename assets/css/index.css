@@ -1,0 +1,57 @@
+body{
+  background-color: #fff;
+  font-family: "Robot";
+}
+#fundo, .btn{
+  background-color: #FFC0CB !important;
+}
+.btn{
+  margin-bottom: 15px;
+}
+#titulo{
+  font-size: 24px;
+  text-align: center;
+  color: rgb(158, 158, 158);
+  display: block;
+  margin: 15px 0 0 15px;
+}
+#container{
+  width: 90%;
+  height: 266px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -133px;
+  margin-left: -45%;
+}
+#fLogin{
+  border-radius: 3px;
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,.06),0 2px 5px 0 rgba(0,0,0,.2);
+  background-color: #FFF;
+  
+}
+
+#menu{
+    background-color: #fff;
+}
+
+#menuli{
+    font-size: 20px;
+    color: #FFC0CB;
+}
+
+#painelhome{
+    margin-top: 80px;
+    height: 600px;
+}
+
+#empresa{
+    margin-top: 100px;
+}
+
+
+.textohome{
+    
+    text-align: center;
+}
+
